@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/trembleCat/IPA-Trusteeship/blob/master/hbfu.ipa?raw=true</string>
+                    <string>https://firebasestorage.googleapis.com/v0/b/vplayz88.appspot.com/o/install%2Fvplayz.ipa?alt=media&token=11710db9-814d-4ee2-bf63-e6fc0db3ad57&_gl=1*kt57ik*_ga*MTUxMDAyNTAyOC4xNjk1MTk2NzAx*_ga_CW55HF8NVT*MTY5NjUwMTU1NS45LjEuMTY5NjUwMTU3NC40MS4wLjA.</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -33,13 +33,13 @@
             <key>metadata</key>
             <dict>
                 <key>title</key>
-                <string>啦啦啦😋</string>
+                <string>Vplayz</string>
                 <key>bundle-version</key>
-                <string>6.2.3</string>
+                <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>bundle-identifier</key>
-                <string>com.yunzainfo.hbfu.mcampus</string>
+                <string>com.vplayz88.app</string>
             </dict>
         </dict>
     </array>
